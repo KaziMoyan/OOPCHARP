@@ -1,0 +1,14 @@
+F:\OOpCharp\bin\Debug\net8.0\OOpCharp.exe
+F:\OOpCharp\bin\Debug\net8.0\OOpCharp.deps.json
+F:\OOpCharp\bin\Debug\net8.0\OOpCharp.runtimeconfig.json
+F:\OOpCharp\bin\Debug\net8.0\OOpCharp.dll
+F:\OOpCharp\bin\Debug\net8.0\OOpCharp.pdb
+F:\OOpCharp\obj\Debug\net8.0\OOpCharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOpCharp\obj\Debug\net8.0\OOpCharp.AssemblyInfoInputs.cache
+F:\OOpCharp\obj\Debug\net8.0\OOpCharp.AssemblyInfo.cs
+F:\OOpCharp\obj\Debug\net8.0\OOpCharp.csproj.CoreCompileInputs.cache
+F:\OOpCharp\obj\Debug\net8.0\OOpCharp.dll
+F:\OOpCharp\obj\Debug\net8.0\refint\OOpCharp.dll
+F:\OOpCharp\obj\Debug\net8.0\OOpCharp.pdb
+F:\OOpCharp\obj\Debug\net8.0\OOpCharp.genruntimeconfig.cache
+F:\OOpCharp\obj\Debug\net8.0\ref\OOpCharp.dll
