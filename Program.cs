@@ -49,3 +49,22 @@ class Test {
         Console.WriteLine($"Name={p2.Name}, Age={p2.Age}");
     }
 }
+public class Student{
+ public readonly int age;
+ public Student(int age)
+ {
+    this.age=age;
+
+ }
+
+}
+
+public class Myclass{
+public static void Main(string [] args)
+{
+ Student s1 = new Student(30);
+ 
+ Console.WriteLine($"{s1.age}");
+}
+}
+
